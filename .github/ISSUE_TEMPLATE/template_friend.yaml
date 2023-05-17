@@ -17,7 +17,7 @@ body:
         - required: false
           label: 博客已运行至少半年，非刚搭建好。
         - required: false
-          label: 与 xaoxuu 有至少 5 次有效互动（有内容的留言或者 issue 等）。
+          label: 与 XQ 有至少 5 次有效互动（有内容的留言或者 issue 等）。
   - type: textarea
     id: config-file
     validations:
@@ -40,7 +40,7 @@ body:
     attributes:
       label: 友链地址
       description: 请输入您的友链页面地址。
-      placeholder: "如: https://xaoxuu.com/friends/"
+      placeholder: "如: hhttps://xq773939719.github.io/friends/"
     validations:
       required: true
   - type: input
@@ -48,4 +48,4 @@ body:
     attributes:
       label: 友链仓库（可选）
       description: 如果您使用 issue 作为友链源，请附上 issue 仓库链接。
-      placeholder: "如: https://github.com/xaoxuu/friends/"
+      placeholder: ""
